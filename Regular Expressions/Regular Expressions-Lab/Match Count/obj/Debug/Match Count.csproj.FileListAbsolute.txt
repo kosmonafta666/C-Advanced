@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Match Count\bin\Debug\Match Count.exe.config
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Match Count\bin\Debug\Match Count.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Match Count\bin\Debug\Match Count.pdb
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Match Count\obj\Debug\Match Count.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Match Count\obj\Debug\Match Count.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Match Count\obj\Debug\Match Count.pdb

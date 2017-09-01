@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Non-Digit Count\bin\Debug\Non-Digit Count.exe.config
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Non-Digit Count\bin\Debug\Non-Digit Count.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Non-Digit Count\bin\Debug\Non-Digit Count.pdb
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Non-Digit Count\obj\Debug\Non-Digit Count.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Non-Digit Count\obj\Debug\Non-Digit Count.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Non-Digit Count\obj\Debug\Non-Digit Count.pdb

@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Sort Students\bin\Debug\Sort Students.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Sort Students\bin\Debug\Sort Students.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Sort Students\bin\Debug\Sort Students.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Sort Students\obj\Debug\Sort Students.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Sort Students\obj\Debug\Sort Students.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Sort Students\obj\Debug\Sort Students.pdb

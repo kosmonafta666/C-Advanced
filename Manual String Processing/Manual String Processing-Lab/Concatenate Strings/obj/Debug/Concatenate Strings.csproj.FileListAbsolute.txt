@@ -1,0 +1,5 @@
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Concatenate Strings\bin\Debug\Concatenate Strings.exe.config
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Concatenate Strings\bin\Debug\Concatenate Strings.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Concatenate Strings\bin\Debug\Concatenate Strings.pdb
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Concatenate Strings\obj\Debug\Concatenate Strings.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Concatenate Strings\obj\Debug\Concatenate Strings.pdb

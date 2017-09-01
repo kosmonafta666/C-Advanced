@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Matrix of Palindromes\bin\Debug\Matrix of Palindromes.exe.config
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Matrix of Palindromes\bin\Debug\Matrix of Palindromes.exe
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Matrix of Palindromes\bin\Debug\Matrix of Palindromes.pdb
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Matrix of Palindromes\obj\Debug\Matrix of Palindromes.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Matrix of Palindromes\obj\Debug\Matrix of Palindromes.exe
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Matrix of Palindromes\obj\Debug\Matrix of Palindromes.pdb

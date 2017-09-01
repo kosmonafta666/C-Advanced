@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Semantic HTML\bin\Debug\Semantic HTML.exe.config
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Semantic HTML\bin\Debug\Semantic HTML.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Semantic HTML\bin\Debug\Semantic HTML.pdb
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Semantic HTML\obj\Debug\Semantic HTML.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Semantic HTML\obj\Debug\Semantic HTML.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Semantic HTML\obj\Debug\Semantic HTML.pdb

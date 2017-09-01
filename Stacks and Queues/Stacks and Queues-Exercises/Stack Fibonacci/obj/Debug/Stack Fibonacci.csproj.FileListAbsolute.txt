@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Stacks and Queues\Stacks and Queues-Exercises\Stack Fibonacci\bin\Debug\Stack Fibonacci.exe.config
+D:\SoftUNI\C# Advanced\Stacks and Queues\Stacks and Queues-Exercises\Stack Fibonacci\bin\Debug\Stack Fibonacci.exe
+D:\SoftUNI\C# Advanced\Stacks and Queues\Stacks and Queues-Exercises\Stack Fibonacci\bin\Debug\Stack Fibonacci.pdb
+D:\SoftUNI\C# Advanced\Stacks and Queues\Stacks and Queues-Exercises\Stack Fibonacci\obj\Debug\Stack Fibonacci.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Stacks and Queues\Stacks and Queues-Exercises\Stack Fibonacci\obj\Debug\Stack Fibonacci.exe
+D:\SoftUNI\C# Advanced\Stacks and Queues\Stacks and Queues-Exercises\Stack Fibonacci\obj\Debug\Stack Fibonacci.pdb

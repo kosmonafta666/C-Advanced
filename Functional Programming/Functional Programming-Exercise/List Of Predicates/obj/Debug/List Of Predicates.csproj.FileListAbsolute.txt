@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\List Of Predicates\bin\Debug\List Of Predicates.exe.config
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\List Of Predicates\bin\Debug\List Of Predicates.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\List Of Predicates\bin\Debug\List Of Predicates.pdb
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\List Of Predicates\obj\Debug\List Of Predicates.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\List Of Predicates\obj\Debug\List Of Predicates.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\List Of Predicates\obj\Debug\List Of Predicates.pdb

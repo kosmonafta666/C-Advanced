@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Little John\bin\Debug\Little John.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Little John\bin\Debug\Little John.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Little John\bin\Debug\Little John.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Little John\obj\Debug\Little John.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Little John\obj\Debug\Little John.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Little John\obj\Debug\Little John.pdb

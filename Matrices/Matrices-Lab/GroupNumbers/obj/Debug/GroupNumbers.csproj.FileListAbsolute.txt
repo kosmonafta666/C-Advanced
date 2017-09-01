@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\GroupNumbers\bin\Debug\GroupNumbers.exe.config
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\GroupNumbers\bin\Debug\GroupNumbers.exe
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\GroupNumbers\bin\Debug\GroupNumbers.pdb
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\GroupNumbers\obj\Debug\GroupNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\GroupNumbers\obj\Debug\GroupNumbers.exe
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\GroupNumbers\obj\Debug\GroupNumbers.pdb

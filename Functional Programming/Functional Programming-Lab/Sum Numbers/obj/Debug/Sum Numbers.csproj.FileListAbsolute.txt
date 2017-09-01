@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sum Numbers\bin\Debug\Sum Numbers.exe.config
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sum Numbers\bin\Debug\Sum Numbers.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sum Numbers\bin\Debug\Sum Numbers.pdb
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sum Numbers\obj\Debug\Sum Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sum Numbers\obj\Debug\Sum Numbers.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sum Numbers\obj\Debug\Sum Numbers.pdb

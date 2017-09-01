@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by First and Last Name\bin\Debug\Students by First and Last Name.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by First and Last Name\bin\Debug\Students by First and Last Name.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by First and Last Name\bin\Debug\Students by First and Last Name.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by First and Last Name\obj\Debug\Students by First and Last Name.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by First and Last Name\obj\Debug\Students by First and Last Name.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by First and Last Name\obj\Debug\Students by First and Last Name.pdb

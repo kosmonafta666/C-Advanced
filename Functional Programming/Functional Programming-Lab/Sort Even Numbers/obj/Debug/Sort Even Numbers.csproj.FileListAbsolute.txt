@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sort Even Numbers\bin\Debug\Sort Even Numbers.exe.config
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sort Even Numbers\bin\Debug\Sort Even Numbers.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sort Even Numbers\bin\Debug\Sort Even Numbers.pdb
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sort Even Numbers\obj\Debug\Sort Even Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sort Even Numbers\obj\Debug\Sort Even Numbers.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Sort Even Numbers\obj\Debug\Sort Even Numbers.pdb

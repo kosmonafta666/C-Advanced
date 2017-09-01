@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Take Two\bin\Debug\Take Two.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Take Two\bin\Debug\Take Two.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Take Two\bin\Debug\Take Two.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Take Two\obj\Debug\Take Two.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Take Two\obj\Debug\Take Two.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Take Two\obj\Debug\Take Two.pdb

@@ -1,0 +1,5 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\FilterStudentsByPhone\bin\Debug\FilterStudentsByPhone.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\FilterStudentsByPhone\bin\Debug\FilterStudentsByPhone.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\FilterStudentsByPhone\bin\Debug\FilterStudentsByPhone.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\FilterStudentsByPhone\obj\Debug\FilterStudentsByPhone.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\FilterStudentsByPhone\obj\Debug\FilterStudentsByPhone.pdb

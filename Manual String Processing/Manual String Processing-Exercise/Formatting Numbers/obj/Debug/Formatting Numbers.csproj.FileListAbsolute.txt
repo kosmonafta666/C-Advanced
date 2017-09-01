@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Formatting Numbers\bin\Debug\Formatting Numbers.exe.config
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Formatting Numbers\bin\Debug\Formatting Numbers.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Formatting Numbers\bin\Debug\Formatting Numbers.pdb
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Formatting Numbers\obj\Debug\Formatting Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Formatting Numbers\obj\Debug\Formatting Numbers.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Formatting Numbers\obj\Debug\Formatting Numbers.pdb

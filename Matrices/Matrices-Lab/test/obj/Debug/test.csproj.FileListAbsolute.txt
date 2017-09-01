@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\test\bin\Debug\test.exe.config
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\test\bin\Debug\test.exe
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\test\bin\Debug\test.pdb
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\test\obj\Debug\test.exe
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\test\obj\Debug\test.pdb

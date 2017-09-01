@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Knights of Honor\bin\Debug\Knights of Honor.exe.config
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Knights of Honor\bin\Debug\Knights of Honor.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Knights of Honor\bin\Debug\Knights of Honor.pdb
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Knights of Honor\obj\Debug\Knights of Honor.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Knights of Honor\obj\Debug\Knights of Honor.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Knights of Honor\obj\Debug\Knights of Honor.pdb

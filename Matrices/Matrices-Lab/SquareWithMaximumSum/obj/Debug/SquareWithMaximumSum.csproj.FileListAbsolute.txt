@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\SquareWithMaximumSum\bin\Debug\SquareWithMaximumSum.exe.config
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\SquareWithMaximumSum\bin\Debug\SquareWithMaximumSum.exe
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\SquareWithMaximumSum\bin\Debug\SquareWithMaximumSum.pdb
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\SquareWithMaximumSum\obj\Debug\SquareWithMaximumSum.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\SquareWithMaximumSum\obj\Debug\SquareWithMaximumSum.exe
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Lab\SquareWithMaximumSum\obj\Debug\SquareWithMaximumSum.pdb

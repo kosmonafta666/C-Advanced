@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Use Your Chains, Buddy\bin\Debug\Use Your Chains, Buddy.exe.config
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Use Your Chains, Buddy\bin\Debug\Use Your Chains, Buddy.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Use Your Chains, Buddy\bin\Debug\Use Your Chains, Buddy.pdb
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Use Your Chains, Buddy\obj\Debug\Use Your Chains, Buddy.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Use Your Chains, Buddy\obj\Debug\Use Your Chains, Buddy.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Use Your Chains, Buddy\obj\Debug\Use Your Chains, Buddy.pdb

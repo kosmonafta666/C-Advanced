@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Messages\bin\Debug\Cubic Messages.exe.config
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Messages\bin\Debug\Cubic Messages.exe
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Messages\bin\Debug\Cubic Messages.pdb
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Messages\obj\Debug\Cubic Messages.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Messages\obj\Debug\Cubic Messages.exe
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Messages\obj\Debug\Cubic Messages.pdb

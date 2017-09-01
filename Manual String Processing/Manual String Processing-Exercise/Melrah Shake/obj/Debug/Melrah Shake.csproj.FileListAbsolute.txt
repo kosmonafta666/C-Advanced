@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Melrah Shake\bin\Debug\Melrah Shake.exe.config
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Melrah Shake\bin\Debug\Melrah Shake.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Melrah Shake\bin\Debug\Melrah Shake.pdb
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Melrah Shake\obj\Debug\Melrah Shake.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Melrah Shake\obj\Debug\Melrah Shake.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Melrah Shake\obj\Debug\Melrah Shake.pdb

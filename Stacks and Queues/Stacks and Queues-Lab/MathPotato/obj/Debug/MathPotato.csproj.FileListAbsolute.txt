@@ -1,0 +1,5 @@
+D:\SoftUNI\C# Advanced\Stacks and Queues\Stacks and Queues-Lab\MathPotato\bin\Debug\MathPotato.exe.config
+D:\SoftUNI\C# Advanced\Stacks and Queues\Stacks and Queues-Lab\MathPotato\bin\Debug\MathPotato.exe
+D:\SoftUNI\C# Advanced\Stacks and Queues\Stacks and Queues-Lab\MathPotato\bin\Debug\MathPotato.pdb
+D:\SoftUNI\C# Advanced\Stacks and Queues\Stacks and Queues-Lab\MathPotato\obj\Debug\MathPotato.exe
+D:\SoftUNI\C# Advanced\Stacks and Queues\Stacks and Queues-Lab\MathPotato\obj\Debug\MathPotato.pdb

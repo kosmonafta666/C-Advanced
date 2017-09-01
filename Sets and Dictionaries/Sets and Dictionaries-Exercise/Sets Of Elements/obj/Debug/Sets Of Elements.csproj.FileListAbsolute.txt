@@ -1,0 +1,5 @@
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Sets Of Elements\bin\Debug\Sets Of Elements.exe.config
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Sets Of Elements\bin\Debug\Sets Of Elements.exe
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Sets Of Elements\bin\Debug\Sets Of Elements.pdb
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Sets Of Elements\obj\Debug\Sets Of Elements.exe
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Sets Of Elements\obj\Debug\Sets Of Elements.pdb

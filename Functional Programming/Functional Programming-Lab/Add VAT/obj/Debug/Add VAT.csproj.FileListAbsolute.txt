@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Add VAT\bin\Debug\Add VAT.exe.config
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Add VAT\bin\Debug\Add VAT.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Add VAT\bin\Debug\Add VAT.pdb
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Add VAT\obj\Debug\Add VAT.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Add VAT\obj\Debug\Add VAT.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Lab\Add VAT\obj\Debug\Add VAT.pdb

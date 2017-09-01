@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Crossfire\bin\Debug\Crossfire.exe.config
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Crossfire\bin\Debug\Crossfire.exe
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Crossfire\bin\Debug\Crossfire.pdb
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Crossfire\obj\Debug\Crossfire.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Crossfire\obj\Debug\Crossfire.exe
+D:\SoftUNI\C# Advanced\Matrices\Matrices-Exercise\Crossfire\obj\Debug\Crossfire.pdb

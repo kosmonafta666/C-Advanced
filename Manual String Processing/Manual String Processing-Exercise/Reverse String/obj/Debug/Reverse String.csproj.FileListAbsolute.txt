@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Reverse String\bin\Debug\Reverse String.exe.config
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Reverse String\bin\Debug\Reverse String.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Reverse String\bin\Debug\Reverse String.pdb
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Reverse String\obj\Debug\Reverse String.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Reverse String\obj\Debug\Reverse String.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Reverse String\obj\Debug\Reverse String.pdb

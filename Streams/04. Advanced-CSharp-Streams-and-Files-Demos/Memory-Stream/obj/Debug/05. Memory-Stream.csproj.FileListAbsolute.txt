@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\Memory-Stream\bin\Debug\Memory-Stream.exe.config
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\Memory-Stream\bin\Debug\Memory-Stream.exe
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\Memory-Stream\bin\Debug\Memory-Stream.pdb
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\Memory-Stream\obj\Debug\05. Memory-Stream.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\Memory-Stream\obj\Debug\Memory-Stream.exe
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\Memory-Stream\obj\Debug\Memory-Stream.pdb

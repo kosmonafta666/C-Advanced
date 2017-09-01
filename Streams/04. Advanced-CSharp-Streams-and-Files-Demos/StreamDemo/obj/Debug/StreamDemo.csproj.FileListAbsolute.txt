@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\StreamDemo\bin\Debug\StreamDemo.exe.config
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\StreamDemo\bin\Debug\StreamDemo.exe
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\StreamDemo\bin\Debug\StreamDemo.pdb
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\StreamDemo\obj\Debug\StreamDemo.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\StreamDemo\obj\Debug\StreamDemo.exe
+D:\SoftUNI\C# Advanced\Streams\04. Advanced-CSharp-Streams-and-Files-Demos\StreamDemo\obj\Debug\StreamDemo.pdb

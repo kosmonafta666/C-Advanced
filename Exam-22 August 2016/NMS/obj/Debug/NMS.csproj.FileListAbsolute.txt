@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\NMS\bin\Debug\NMS.exe.config
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\NMS\bin\Debug\NMS.exe
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\NMS\bin\Debug\NMS.pdb
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\NMS\obj\Debug\NMS.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\NMS\obj\Debug\NMS.exe
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\NMS\obj\Debug\NMS.pdb

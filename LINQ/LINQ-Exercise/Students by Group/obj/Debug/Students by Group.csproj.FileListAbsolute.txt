@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by Group\bin\Debug\Students by Group.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by Group\bin\Debug\Students by Group.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by Group\bin\Debug\Students by Group.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by Group\obj\Debug\Students by Group.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by Group\obj\Debug\Students by Group.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Students by Group\obj\Debug\Students by Group.pdb

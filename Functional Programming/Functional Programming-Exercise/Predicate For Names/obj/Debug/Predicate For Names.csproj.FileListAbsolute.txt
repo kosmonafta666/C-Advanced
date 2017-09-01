@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Predicate For Names\bin\Debug\Predicate For Names.exe.config
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Predicate For Names\bin\Debug\Predicate For Names.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Predicate For Names\bin\Debug\Predicate For Names.pdb
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Predicate For Names\obj\Debug\Predicate For Names.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Predicate For Names\obj\Debug\Predicate For Names.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Predicate For Names\obj\Debug\Predicate For Names.pdb

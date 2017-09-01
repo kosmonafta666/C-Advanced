@@ -1,0 +1,86 @@
+0. namespace Legendary_Farming
+1. {
+2.     using System;
+3.     using System.Collections.Generic;
+4.     using System.Linq;
+5.     using System.Text;
+6.     using System.Threading.Tasks;
+7. 
+8.     public class LegendaryFarming
+9.     {
+10.         public static void Main(string[] args)
+11.         {
+12.             //dictionary for materials;
+13.             var mats = new SortedDictionary<string, int>();
+14. 
+15.             //add initial key to material dictionary for legendary mats;
+16.             mats.Add("fragments", 0);
+17.             mats.Add("motes", 0);
+18.             mats.Add("shards", 0);
+19. 
+20.             //read the input and splitted;
+21.             var input = Console.ReadLine()
+22.                 .ToLower()
+23.                 .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+24. 
+25.             //queue to strore the input;
+26.             var tempQueue = new Queue<string>(input);
+27. 
+28.             while (tempQueue.Count > 0)
+29.             {
+30.                 //var for current quantity;
+31.                 var quantity = int.Parse(tempQueue.Dequeue());
+32.                 //var for current material;
+33.                 var material = tempQueue.Dequeue();
+34. 
+35.                 //fill the material dictioanary;
+36.                 if (!mats.ContainsKey(material))
+37.                 {
+38.                     mats.Add(material, quantity);
+39.                 }
+40.                 else
+41.                 {
+42.                     mats[material] += quantity;
+43.                 }
+44. 
+45.                 //check for winner;
+46.                 if (mats.ContainsKey("fragments") && mats["fragments"] >= 250)
+47.                 {
+48.                     mats["fragments"] -= 250;
+49.                     Console.WriteLine("Valanyr obtained!");
+50.                     break;
+51.                 }
+52.                 else if (mats.ContainsKey("motes") && mats["motes"] >= 250)
+53.                 {
+54.                     mats["motes"] -= 250;
+55.                     Console.WriteLine("Dragonwrath obtained!");
+56.                     break;
+57.                 }
+58.                 else if (mats.ContainsKey("shards") && mats["shards"] >= 250)
+59.                 {
+60.                     mats["shards"] -= 250;
+61.                     Console.WriteLine("Shadowmourne  obtained!");
+62.                     break;
+63.                 }
+64.             }//end of while loop;
+65. 
+66.             //printing the legendary material;
+67.             foreach (var mat in mats
+68.                 .Where(x => x.Key == "fragments" || x.Key == "motes" || x.Key == "shards")
+69.                 .OrderByDescending(x => x.Value)
+70.                 .ThenBy(x => x.Key))
+71.             {
+72.                 Console.WriteLine($"{mat.Key}: {mat.Value}");
+73.             }
+74. 
+75.             //printing the junk material;
+76.             foreach (var mat in mats
+77.                 .Where(x => !(x.Key == "fragments" || x.Key == "motes" || x.Key == "shards"))
+78.                 .OrderBy(x => x.Key))
+79.             {
+80.                 Console.WriteLine($"{mat.Key}: {mat.Value}");
+81.             }
+82.         }
+83.     }
+84. }
+85. END

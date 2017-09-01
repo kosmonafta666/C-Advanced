@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Inferno III\bin\Debug\Inferno III.exe.config
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Inferno III\bin\Debug\Inferno III.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Inferno III\bin\Debug\Inferno III.pdb
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Inferno III\obj\Debug\Inferno III.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Inferno III\obj\Debug\Inferno III.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Inferno III\obj\Debug\Inferno III.pdb

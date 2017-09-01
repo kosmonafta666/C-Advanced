@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Periodic Table\bin\Debug\Periodic Table.exe.config
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Periodic Table\bin\Debug\Periodic Table.exe
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Periodic Table\bin\Debug\Periodic Table.pdb
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Periodic Table\obj\Debug\Periodic Table.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Periodic Table\obj\Debug\Periodic Table.exe
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Periodic Table\obj\Debug\Periodic Table.pdb

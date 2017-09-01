@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Find Evens or Odds\bin\Debug\Find Evens or Odds.exe.config
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Find Evens or Odds\bin\Debug\Find Evens or Odds.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Find Evens or Odds\bin\Debug\Find Evens or Odds.pdb
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Find Evens or Odds\obj\Debug\Find Evens or Odds.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Find Evens or Odds\obj\Debug\Find Evens or Odds.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Find Evens or Odds\obj\Debug\Find Evens or Odds.pdb

@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Group by Group\bin\Debug\Group by Group.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Group by Group\bin\Debug\Group by Group.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Group by Group\bin\Debug\Group by Group.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Group by Group\obj\Debug\Group by Group.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Group by Group\obj\Debug\Group by Group.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Group by Group\obj\Debug\Group by Group.pdb

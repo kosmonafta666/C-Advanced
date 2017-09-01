@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\User Logs\bin\Debug\User Logs.exe.config
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\User Logs\bin\Debug\User Logs.exe
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\User Logs\bin\Debug\User Logs.pdb
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\User Logs\obj\Debug\User Logs.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\User Logs\obj\Debug\User Logs.exe
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\User Logs\obj\Debug\User Logs.pdb

@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Students Results\bin\Debug\Students Results.exe.config
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Students Results\bin\Debug\Students Results.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Students Results\bin\Debug\Students Results.pdb
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Students Results\obj\Debug\Students Results.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Students Results\obj\Debug\Students Results.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Students Results\obj\Debug\Students Results.pdb

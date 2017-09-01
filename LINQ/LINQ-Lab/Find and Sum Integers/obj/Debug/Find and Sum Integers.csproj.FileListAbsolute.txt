@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Find and Sum Integers\bin\Debug\Find and Sum Integers.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Find and Sum Integers\bin\Debug\Find and Sum Integers.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Find and Sum Integers\bin\Debug\Find and Sum Integers.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Find and Sum Integers\obj\Debug\Find and Sum Integers.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Find and Sum Integers\obj\Debug\Find and Sum Integers.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Find and Sum Integers\obj\Debug\Find and Sum Integers.pdb

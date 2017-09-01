@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Replace a tag\bin\Debug\Replace a tag.exe.config
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Replace a tag\bin\Debug\Replace a tag.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Replace a tag\bin\Debug\Replace a tag.pdb
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Replace a tag\obj\Debug\Replace a tag.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Replace a tag\obj\Debug\Replace a tag.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Replace a tag\obj\Debug\Replace a tag.pdb

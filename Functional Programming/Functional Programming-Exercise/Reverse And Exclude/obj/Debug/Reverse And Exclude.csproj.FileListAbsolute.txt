@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Reverse And Exclude\bin\Debug\Reverse And Exclude.exe.config
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Reverse And Exclude\bin\Debug\Reverse And Exclude.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Reverse And Exclude\bin\Debug\Reverse And Exclude.pdb
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Reverse And Exclude\obj\Debug\Reverse And Exclude.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Reverse And Exclude\obj\Debug\Reverse And Exclude.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\Reverse And Exclude\obj\Debug\Reverse And Exclude.pdb

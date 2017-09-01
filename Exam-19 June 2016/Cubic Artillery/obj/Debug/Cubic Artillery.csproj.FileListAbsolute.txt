@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Artillery\bin\Debug\Cubic Artillery.exe.config
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Artillery\bin\Debug\Cubic Artillery.exe
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Artillery\bin\Debug\Cubic Artillery.pdb
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Artillery\obj\Debug\Cubic Artillery.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Artillery\obj\Debug\Cubic Artillery.exe
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Artillery\obj\Debug\Cubic Artillery.pdb

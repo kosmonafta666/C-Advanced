@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse URLs\bin\Debug\Parse URLs.exe.config
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse URLs\bin\Debug\Parse URLs.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse URLs\bin\Debug\Parse URLs.pdb
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse URLs\obj\Debug\Parse URLs.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse URLs\obj\Debug\Parse URLs.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse URLs\obj\Debug\Parse URLs.pdb

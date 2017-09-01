@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic's Rube\bin\Debug\Cubic's Rube.exe.config
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic's Rube\bin\Debug\Cubic's Rube.exe
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic's Rube\bin\Debug\Cubic's Rube.pdb
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic's Rube\obj\Debug\Cubic's Rube.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic's Rube\obj\Debug\Cubic's Rube.exe
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic's Rube\obj\Debug\Cubic's Rube.pdb

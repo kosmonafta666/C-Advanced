@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Unique Usernames\bin\Debug\Unique Usernames.exe.config
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Unique Usernames\bin\Debug\Unique Usernames.exe
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Unique Usernames\bin\Debug\Unique Usernames.pdb
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Unique Usernames\obj\Debug\Unique Usernames.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Unique Usernames\obj\Debug\Unique Usernames.exe
+D:\SoftUNI\C# Advanced\Sets and Dictionaries\Sets and Dictionaries-Exercise\Unique Usernames\obj\Debug\Unique Usernames.pdb

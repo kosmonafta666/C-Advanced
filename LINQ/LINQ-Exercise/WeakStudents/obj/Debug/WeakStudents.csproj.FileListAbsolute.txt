@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\WeakStudents\bin\Debug\WeakStudents.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\WeakStudents\bin\Debug\WeakStudents.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\WeakStudents\bin\Debug\WeakStudents.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\WeakStudents\obj\Debug\WeakStudents.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\WeakStudents\obj\Debug\WeakStudents.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\WeakStudents\obj\Debug\WeakStudents.pdb

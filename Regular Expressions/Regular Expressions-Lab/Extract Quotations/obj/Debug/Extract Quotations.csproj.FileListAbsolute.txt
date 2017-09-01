@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Quotations\bin\Debug\Extract Quotations.exe.config
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Quotations\bin\Debug\Extract Quotations.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Quotations\bin\Debug\Extract Quotations.pdb
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Quotations\obj\Debug\Extract Quotations.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Quotations\obj\Debug\Extract Quotations.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Quotations\obj\Debug\Extract Quotations.pdb

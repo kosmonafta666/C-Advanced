@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Valid Time\bin\Debug\Valid Time.exe.config
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Valid Time\bin\Debug\Valid Time.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Valid Time\bin\Debug\Valid Time.pdb
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Valid Time\obj\Debug\Valid Time.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Valid Time\obj\Debug\Valid Time.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Valid Time\obj\Debug\Valid Time.pdb

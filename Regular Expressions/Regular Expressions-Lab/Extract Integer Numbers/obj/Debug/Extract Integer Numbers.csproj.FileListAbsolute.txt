@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Integer Numbers\bin\Debug\Extract Integer Numbers.exe.config
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Integer Numbers\bin\Debug\Extract Integer Numbers.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Integer Numbers\bin\Debug\Extract Integer Numbers.pdb
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Integer Numbers\obj\Debug\Extract Integer Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Integer Numbers\obj\Debug\Extract Integer Numbers.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Integer Numbers\obj\Debug\Extract Integer Numbers.pdb

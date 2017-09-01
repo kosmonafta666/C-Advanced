@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Upper Strings\bin\Debug\Upper Strings.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Upper Strings\bin\Debug\Upper Strings.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Upper Strings\bin\Debug\Upper Strings.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Upper Strings\obj\Debug\Upper Strings.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Upper Strings\obj\Debug\Upper Strings.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Upper Strings\obj\Debug\Upper Strings.pdb

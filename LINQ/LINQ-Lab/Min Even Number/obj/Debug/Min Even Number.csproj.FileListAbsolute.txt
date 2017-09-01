@@ -1,0 +1,5 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Min Even Number\bin\Debug\Min Even Number.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Min Even Number\bin\Debug\Min Even Number.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Min Even Number\bin\Debug\Min Even Number.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Min Even Number\obj\Debug\Min Even Number.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Lab\Min Even Number\obj\Debug\Min Even Number.pdb

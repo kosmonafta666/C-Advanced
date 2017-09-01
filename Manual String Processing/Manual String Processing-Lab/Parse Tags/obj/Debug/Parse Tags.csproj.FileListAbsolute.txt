@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse Tags\bin\Debug\Parse Tags.exe.config
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse Tags\bin\Debug\Parse Tags.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse Tags\bin\Debug\Parse Tags.pdb
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse Tags\obj\Debug\Parse Tags.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse Tags\obj\Debug\Parse Tags.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Lab\Parse Tags\obj\Debug\Parse Tags.pdb

@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Text Filter\bin\Debug\Text Filter.exe.config
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Text Filter\bin\Debug\Text Filter.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Text Filter\bin\Debug\Text Filter.pdb
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Text Filter\obj\Debug\Text Filter.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Text Filter\obj\Debug\Text Filter.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Text Filter\obj\Debug\Text Filter.pdb

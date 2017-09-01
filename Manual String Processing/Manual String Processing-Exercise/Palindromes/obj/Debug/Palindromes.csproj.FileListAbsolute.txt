@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Palindromes\bin\Debug\Palindromes.exe.config
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Palindromes\bin\Debug\Palindromes.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Palindromes\bin\Debug\Palindromes.pdb
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Palindromes\obj\Debug\Palindromes.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Palindromes\obj\Debug\Palindromes.pdb

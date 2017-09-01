@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Match Full Name\bin\Debug\Match Full Name.exe.config
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Match Full Name\bin\Debug\Match Full Name.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Match Full Name\bin\Debug\Match Full Name.pdb
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Match Full Name\obj\Debug\Match Full Name.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Match Full Name\obj\Debug\Match Full Name.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Match Full Name\obj\Debug\Match Full Name.pdb

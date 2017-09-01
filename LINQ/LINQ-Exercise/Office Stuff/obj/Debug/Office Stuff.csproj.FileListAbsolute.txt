@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Office Stuff\bin\Debug\Office Stuff.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Office Stuff\bin\Debug\Office Stuff.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Office Stuff\bin\Debug\Office Stuff.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Office Stuff\obj\Debug\Office Stuff.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Office Stuff\obj\Debug\Office Stuff.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Office Stuff\obj\Debug\Office Stuff.pdb

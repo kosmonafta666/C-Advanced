@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\TriFunction\bin\Debug\TriFunction.exe.config
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\TriFunction\bin\Debug\TriFunction.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\TriFunction\bin\Debug\TriFunction.pdb
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\TriFunction\obj\Debug\TriFunction.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\TriFunction\obj\Debug\TriFunction.exe
+D:\SoftUNI\C# Advanced\Functional Programming\Functional Programming-Exercise\TriFunction\obj\Debug\TriFunction.pdb

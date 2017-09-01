@@ -1,0 +1,5 @@
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Unicode Characters\bin\Debug\Unicode Characters.exe.config
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Unicode Characters\bin\Debug\Unicode Characters.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Unicode Characters\bin\Debug\Unicode Characters.pdb
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Unicode Characters\obj\Debug\Unicode Characters.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\Unicode Characters\obj\Debug\Unicode Characters.pdb

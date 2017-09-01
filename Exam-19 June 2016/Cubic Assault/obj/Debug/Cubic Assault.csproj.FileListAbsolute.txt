@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Assault\bin\Debug\Cubic Assault.exe.config
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Assault\bin\Debug\Cubic Assault.exe
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Assault\bin\Debug\Cubic Assault.pdb
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Assault\obj\Debug\Cubic Assault.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Assault\obj\Debug\Cubic Assault.exe
+D:\SoftUNI\C# Advanced\Exam-19 June 2016\Cubic Assault\obj\Debug\Cubic Assault.pdb

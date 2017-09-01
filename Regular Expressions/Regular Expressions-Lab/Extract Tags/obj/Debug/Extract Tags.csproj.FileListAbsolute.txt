@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Tags\bin\Debug\Extract Tags.exe.config
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Tags\bin\Debug\Extract Tags.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Tags\bin\Debug\Extract Tags.pdb
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Tags\obj\Debug\Extract Tags.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Tags\obj\Debug\Extract Tags.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Lab\Extract Tags\obj\Debug\Extract Tags.pdb

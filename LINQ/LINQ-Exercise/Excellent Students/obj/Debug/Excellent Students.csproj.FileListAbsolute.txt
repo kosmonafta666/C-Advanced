@@ -1,0 +1,5 @@
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Excellent Students\bin\Debug\Excellent Students.exe.config
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Excellent Students\bin\Debug\Excellent Students.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Excellent Students\bin\Debug\Excellent Students.pdb
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Excellent Students\obj\Debug\Excellent Students.exe
+D:\SoftUNI\C# Advanced\LINQ\LINQ-Exercise\Excellent Students\obj\Debug\Excellent Students.pdb

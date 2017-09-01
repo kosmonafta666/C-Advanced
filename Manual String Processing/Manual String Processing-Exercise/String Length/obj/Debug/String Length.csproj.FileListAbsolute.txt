@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\String Length\bin\Debug\String Length.exe.config
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\String Length\bin\Debug\String Length.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\String Length\bin\Debug\String Length.pdb
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\String Length\obj\Debug\String Length.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\String Length\obj\Debug\String Length.exe
+D:\SoftUNI\C# Advanced\Manual String Processing\Manual String Processing-Exercise\String Length\obj\Debug\String Length.pdb

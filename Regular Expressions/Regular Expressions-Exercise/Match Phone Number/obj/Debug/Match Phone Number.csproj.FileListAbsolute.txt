@@ -1,0 +1,5 @@
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Match Phone Number\bin\Debug\Match Phone Number.exe.config
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Match Phone Number\bin\Debug\Match Phone Number.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Match Phone Number\bin\Debug\Match Phone Number.pdb
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Match Phone Number\obj\Debug\Match Phone Number.exe
+D:\SoftUNI\C# Advanced\Regular Expressions\Regular Expressions-Exercise\Match Phone Number\obj\Debug\Match Phone Number.pdb

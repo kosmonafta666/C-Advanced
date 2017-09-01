@@ -1,0 +1,6 @@
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\Nature's Prophet\bin\Debug\Nature's Prophet.exe.config
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\Nature's Prophet\bin\Debug\Nature's Prophet.exe
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\Nature's Prophet\bin\Debug\Nature's Prophet.pdb
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\Nature's Prophet\obj\Debug\Nature's Prophet.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\Nature's Prophet\obj\Debug\Nature's Prophet.exe
+D:\SoftUNI\C# Advanced\Exam-22 August 2016\Nature's Prophet\obj\Debug\Nature's Prophet.pdb
